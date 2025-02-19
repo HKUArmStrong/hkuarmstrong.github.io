@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Introduction on ArmStrong</title><link>http://localhost:1313/tags/introduction/</link><description>Recent content in Introduction on ArmStrong</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/introduction/index.xml" rel="self" type="application/rss+xml"/><item><title>About Us</title><link>http://localhost:1313/aboutus/__index/</link><pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate><guid>http://localhost:1313/aboutus/__index/</guid><description>&lt;p>We are a team of passionate students dedicated to robotics and innovation. Our team consists of:&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Name&lt;/th>
+ &lt;th>Field&lt;/th>
+ &lt;th>Role&lt;/th>
+ &lt;th>Contact Method&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Ian Lo&lt;/td>
+ &lt;td>Computer Science&lt;/td>
+ &lt;td>Developer&lt;/td>
+ &lt;td>&lt;a href="https://ianlo.site">ianlo.site&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Zeng Shaoyu&lt;/td>
+ &lt;td>Computer Science&lt;/td>
+ &lt;td>Developer&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Billie Guo&lt;/td>
+ &lt;td>Computer Engineering&lt;/td>
+ &lt;td>Developer&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="previous-members">Previous Members&lt;/h2>
+&lt;ul>
+&lt;li>Nafis UI&lt;/li>
+&lt;li>Yoko Lau&lt;/li>
+&lt;/ul></description></item></channel></rss>
